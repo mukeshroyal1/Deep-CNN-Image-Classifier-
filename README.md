@@ -30,6 +30,13 @@ Image Classifier/
 - **Input**: Images (resized to standard dimensions)
 - **Output**: Binary classification (Happy/Sad)
 - **Format**: Keras H5 model file
+  
+## Training Loss and Accuracy 
+
+<img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/540afedd-2ff6-4c1e-a30c-7f28565a6a8b" />
+
+<img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/e86af6f4-8187-454c-a170-ad7662e26501" />
+
 
 ## Usage
 
